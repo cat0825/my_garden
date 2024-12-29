@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//file/"}
+{"dg-publish":true,"dg-permalink":"\"template\"","permalink":"/\"template\"/"}
 ---
 
 

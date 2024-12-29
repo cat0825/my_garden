@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/c-primer-plus/using-namespace/"}
+{"dg-publish":true,"dg-permalink":"\"cpp/using\"","permalink":"/\"cpp/using\"/"}
 ---
 
 
