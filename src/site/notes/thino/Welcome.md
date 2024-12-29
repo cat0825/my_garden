@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thino/welcome/","title":"welcome🥳","tags":["日记","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/thino/welcome/","title":"welcome🥳","tags":["日记","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
