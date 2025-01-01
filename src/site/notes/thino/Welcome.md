@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thino/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":" true","permalink":"/thino/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 

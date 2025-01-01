@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/cpp/using","permalink":"/cpp/using/"}
+{"dg-publish":true,"dg-permalink":"/cpp/using","permalink":"/cpp/using/","dgPassFrontmatter":true}
 ---
 
 
