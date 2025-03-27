@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/定长滑动","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/定长滑动/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/大小为k平均值大于等于阈值的子数组个数","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/大小为k平均值大于等于阈值的子数组个数/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/定长滑动","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/定长滑动/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/半径为k的子数组平均值","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/半径为k的子数组平均值/","dgPassFrontmatter":true}
 ---
 
 
