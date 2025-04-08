@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Positional-Encoding位置编码/YaRN方法解析：扩展RoPE嵌入与注意力优化的实践","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Positional-Encoding位置编码/YaRN方法解析：扩展RoPE嵌入与注意力优化的实践/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Positional-Encoding位置编码/YaRN方法解析：扩展RoPE嵌入与注意力优化的实践","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Positional-Encoding位置编码/YaRN方法解析：扩展RoPE嵌入与注意力优化的实践/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T17:25:08.071+08:00","updated":"2025-04-07T17:25:23.442+08:00"}
 ---
 
 

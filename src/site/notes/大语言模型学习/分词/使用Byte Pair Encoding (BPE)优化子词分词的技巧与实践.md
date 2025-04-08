@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["NLP"],"title":"使用Byte Pair Encoding (BPE)优化子词分词的技巧与实践","dg-permalink":"/大语言模型学习/分词/BPE","permalink":"/大语言模型学习/分词/BPE/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["NLP"],"title":"使用Byte Pair Encoding (BPE)优化子词分词的技巧与实践","dg-permalink":"/大语言模型学习/分词/BPE","permalink":"/大语言模型学习/分词/BPE/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-27T09:54:11.996+08:00","updated":"2025-03-27T10:12:20.676+08:00"}
 ---
 
 

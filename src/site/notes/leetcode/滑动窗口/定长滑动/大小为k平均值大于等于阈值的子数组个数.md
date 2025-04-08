@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/大小为k平均值大于等于阈值的子数组个数","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/大小为k平均值大于等于阈值的子数组个数/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/大小为k平均值大于等于阈值的子数组个数","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/大小为k平均值大于等于阈值的子数组个数/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-25T11:50:40.677+08:00","updated":"2025-03-27T10:29:10.562+08:00"}
 ---
 
 
