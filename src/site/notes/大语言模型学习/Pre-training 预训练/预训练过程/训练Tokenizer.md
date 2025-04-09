@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Pre-training-预训练/预训练过程/训练Tokenizer","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Pre-training-预训练/预训练过程/训练Tokenizer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-08T15:17:56.165+08:00","updated":"2025-04-08T15:18:28.943+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Pre-training-预训练/预训练过程/训练Tokenizer","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Pre-training-预训练/预训练过程/训练Tokenizer/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-08T15:17:56.165+08:00","updated":"2025-04-09T22:00:49.931+08:00"}
 ---
 
 
@@ -52,6 +52,7 @@ Tokenizer（分词器）的主要作用是将输入的句子切分为词或字�
 通过对比Chinese-LLaMA与原始LLaMA的Tokenizer，可以发现：
 - **Chinese-LLaMA**新增了17953个tokens，大部分为汉字。
 - **BELLE模型**在120万行中文文本上训练了一个规模为5万的token集合，并将其与原始LLaMA词表合并。
+![Pasted image 20250409220047.png](/img/user/%E9%99%84%E4%BB%B6/Pasted%20image%2020250409220047.png)
 
 #### 📊 数据表格示例：
 | 模型名         | 新增tokens数量 | 数据规模       |
