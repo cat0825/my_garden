@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Positional-Encoding位置编码/旋转位置编码与ALiBi：深度学习中的位置嵌入优化","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Positional-Encoding位置编码/旋转位置编码与ALiBi：深度学习中的位置嵌入优化/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T16:18:48.417+08:00","updated":"2025-04-07T16:22:45.719+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Positional-Encoding位置编码/旋转位置编码与ALiBi：深度学习中的位置嵌入优化","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Positional-Encoding位置编码/旋转位置编码与ALiBi：深度学习中的位置嵌入优化/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T16:18:48.417+08:00","updated":"2025-04-12T12:56:07.982+08:00"}
 ---
 
 
 
 - **分类**：深度学习
 - **标签**：位置编码，RoPE，ALiBi，Transformer
-- **日期**：2023-10-04
+- **日期**：2025年3月5日
 
 ---
 

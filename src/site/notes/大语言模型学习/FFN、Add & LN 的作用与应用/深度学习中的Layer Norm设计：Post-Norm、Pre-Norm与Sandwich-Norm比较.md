@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/深度学习中的Layer-Norm设计：Post-Norm、Pre-Norm与Sandwich-Norm比较","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/深度学习中的Layer-Norm设计：Post-Norm、Pre-Norm与Sandwich-Norm比较/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-04T12:56:21.862+08:00","updated":"2025-04-04T12:59:04.622+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/深度学习中的Layer-Norm设计：Post-Norm、Pre-Norm与Sandwich-Norm比较","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/深度学习中的Layer-Norm设计：Post-Norm、Pre-Norm与Sandwich-Norm比较/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-04T12:56:21.862+08:00","updated":"2025-04-12T12:55:27.419+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 ## 元数据
 - **分类**：深度学习、模型优化
 - **标签**：Layer Norm、残差网络、模型训练
-- **日期**：2023年10月13日
+- **日期**：2025年3月2日
 
 ---
 

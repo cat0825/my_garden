@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/深度解析语言模型采样方法：Top-K、Top-P、Temperature及综合策略","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/深度解析语言模型采样方法：Top-K、Top-P、Temperature及综合策略/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T18:03:18.384+08:00","updated":"2025-04-07T18:04:22.836+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/深度解析语言模型采样方法：Top-K、Top-P、Temperature及综合策略","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/深度解析语言模型采样方法：Top-K、Top-P、Temperature及综合策略/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T18:03:18.384+08:00","updated":"2025-04-12T12:52:38.297+08:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 **元数据：**  
 **分类：** 自然语言处理  
 **标签：** 语言模型、采样方法、AI生成技术  
-**日期：** 2023-10-10  
+**日期：** 2025年4月1日    
 
 ---
 

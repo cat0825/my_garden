@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/优化Attention计算复杂度的技术探讨","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/优化Attention计算复杂度的技术探讨/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-03T22:46:39.319+08:00","updated":"2025-04-03T22:47:01.351+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/优化Attention计算复杂度的技术探讨","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/优化Attention计算复杂度的技术探讨/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-03T22:46:39.319+08:00","updated":"2025-04-12T12:54:23.644+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 ## 元数据
 - **分类**：深度学习/Transformer优化
 - **标签**：Attention机制、计算复杂度、Sparse Attention、Linear Attention
-- **日期**：2023年10月15日
+- **日期**：2024年10月2日  
 
 ---
 

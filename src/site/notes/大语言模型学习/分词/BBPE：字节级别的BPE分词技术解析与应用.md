@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/分词/BBPE：字节级别的BPE分词技术解析与应用","dg-home":false,"dg-description":"这是一个测试","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"1234","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"dg-metatags":[{"name":"在此输入元标签名称","content":"在此输入元标签内容"}],"tags":["NLP"],"permalink":"/大语言模型学习/分词/BBPE：字节级别的BPE分词技术解析与应用/","metatags":[{"name":"在此输入元标签名称","content":"在此输入元标签内容"}],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-03-27T10:05:13.901+08:00","updated":"2025-03-27T12:47:24.418+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/分词/BBPE：字节级别的BPE分词技术解析与应用","dg-home":false,"dg-description":"这是一个测试","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"1234","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"dg-metatags":[{"name":"在此输入元标签名称","content":"在此输入元标签内容"}],"tags":["NLP"],"permalink":"/大语言模型学习/分词/BBPE：字节级别的BPE分词技术解析与应用/","metatags":[{"name":"在此输入元标签名称","content":"在此输入元标签内容"}],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-03-27T10:05:13.901+08:00","updated":"2025-04-12T12:53:44.831+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 ## **元数据**
 - **分类**： 自然语言处理 (NLP) 
 - **标签**：BBPE, BPE, 分词技术, 文本压缩, 多语言处理  
-- **日期**：2024年3月27日
+- **日期**：2025年4月2日  
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/RL强化学习基础/SARSA算法","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/RL强化学习基础/SARSA算法/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-11T13:36:20.964+08:00","updated":"2025-04-11T13:37:02.538+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/RL强化学习基础/SARSA算法","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/RL强化学习基础/SARSA算法/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-11T13:36:20.964+08:00","updated":"2025-04-12T12:49:51.503+08:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 ## 元数据
 - 分类：机器学习算法
 - 标签：SARSA, 强化学习, 机器学习, 价值函数, 贪婪算法
-- 日期：2023年10月24日
+- 日期：2025年4月12日
 
 
 ## 内容概述

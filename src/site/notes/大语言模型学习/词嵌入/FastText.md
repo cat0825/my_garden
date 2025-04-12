@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/词嵌入/FastText","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/词嵌入/FastText/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-02T21:47:05.562+08:00","updated":"2025-04-02T21:48:01.035+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/词嵌入/FastText","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/词嵌入/FastText/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-02T21:47:05.562+08:00","updated":"2025-04-12T12:52:56.739+08:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 ## 元数据
 - **分类**：自然语言处理（NLP）
 - **标签**：文本分类，FastText，NLP优化，机器学习
-- **日期**：2023年10月13日
+- **日期**：2025年4月1日  
 
 ---
 

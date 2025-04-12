@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/解码采样策略：Greedy-Search与Beam-Search的实现与优化","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/解码采样策略：Greedy-Search与Beam-Search的实现与优化/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T18:00:51.706+08:00","updated":"2025-04-07T18:01:29.524+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/解码采样策略：Greedy-Search与Beam-Search的实现与优化","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Structure-&-Decoding-Policy-结构和解码策略/解码采样策略：Greedy-Search与Beam-Search的实现与优化/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T18:00:51.706+08:00","updated":"2025-04-12T12:52:30.670+08:00"}
 ---
 
 
 
 **分类**：自然语言处理  
 **标签**：解码策略、大模型生成、Beam Search  
-**日期**：2023-10-14  
+**日期**：2025年4月1日  
 
 ---
 

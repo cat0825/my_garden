@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/Transformer核心模块解析：FFN、Add-&-LN-的作用与应用","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/Transformer核心模块解析：FFN、Add-&-LN-的作用与应用/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-04T12:53:26.258+08:00","updated":"2025-04-04T12:53:46.574+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/Transformer核心模块解析：FFN、Add-&-LN-的作用与应用","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/Transformer核心模块解析：FFN、Add-&-LN-的作用与应用/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-04T12:53:26.258+08:00","updated":"2025-04-12T12:55:19.909+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 ## 元数据
 - **分类**：深度学习、自然语言处理
 - **标签**：Transformer、前馈网络、层归一化、残差连接、深度学习优化
-- **日期**：2023-10-21
+- **日期**：2025年3月2日  
 
 ---
 

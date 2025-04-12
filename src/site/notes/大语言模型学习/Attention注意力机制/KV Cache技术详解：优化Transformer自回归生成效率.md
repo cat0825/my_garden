@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/KV-Cache技术详解：优化Transformer自回归生成效率","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/KV-Cache技术详解：优化Transformer自回归生成效率/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-04T11:10:49.158+08:00","updated":"2025-04-04T11:11:14.694+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Attention注意力机制/KV-Cache技术详解：优化Transformer自回归生成效率","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Attention注意力机制/KV-Cache技术详解：优化Transformer自回归生成效率/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-04T11:10:49.158+08:00","updated":"2025-04-12T12:54:26.863+08:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 ### 元数据  
 **分类**：深度学习技术  
 **标签**：KV Cache、Transformer、Attention机制、自回归生成  
-**日期**：2023-10-12  
+**日期**：2024年10月2日    
 
 ---
 

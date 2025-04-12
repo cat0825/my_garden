@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/Positional-Encoding位置编码/相对位置编码/相对位置编码与XLNet位置编码详解-深入理解Transformer机制","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Positional-Encoding位置编码/相对位置编码/相对位置编码与XLNet位置编码详解-深入理解Transformer机制/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T14:03:52.071+08:00","updated":"2025-04-07T14:36:45.039+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/Positional-Encoding位置编码/相对位置编码/相对位置编码与XLNet位置编码详解-深入理解Transformer机制","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/Positional-Encoding位置编码/相对位置编码/相对位置编码与XLNet位置编码详解-深入理解Transformer机制/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-07T14:03:52.071+08:00","updated":"2025-04-12T12:55:54.463+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 ## 元数据
 - 分类：自然语言处理 (NLP)
 - 标签：Transformer、相对位置编码、XLNet、深度学习
-- 日期：2023年10月20日
+- 日期：2025年3月2日
 
 ---
 

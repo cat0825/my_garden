@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["NLP"],"title":"使用Byte Pair Encoding (BPE)优化子词分词的技巧与实践","dg-permalink":"/大语言模型学习/分词/BPE","permalink":"/大语言模型学习/分词/BPE/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-27T09:54:11.996+08:00","updated":"2025-03-27T10:12:20.676+08:00"}
+{"dg-publish":true,"tags":["NLP"],"title":"使用Byte Pair Encoding (BPE)优化子词分词的技巧与实践","dg-permalink":"/大语言模型学习/分词/BPE","permalink":"/大语言模型学习/分词/BPE/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-27T09:54:11.996+08:00","updated":"2025-04-12T12:53:40.213+08:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 ## 元数据
 - **分类**：自然语言处理（NLP）
 - **标签**：BPE、分词算法、子词编码、自然语言处理、优化
-- **日期**：2024年3月27日
+- **日期**：2025年4月1日  
 
 ---
 
