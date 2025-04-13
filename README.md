@@ -1,84 +1,93 @@
-```markdown
-# 🌱 My Digital Garden - 个人知识库与博客
 
-欢迎来到我的数字花园！这里是我用 Obsidian + Digital Garden 构建的知识管理系统，同时也是我的技术博客。内容涵盖编程、系统设计、C++实践及学习笔记。
 
-## 🌟 核心功能亮点
-- **双链笔记**：基于 Obsidian 的知识图谱关联  
-- **渐进式写作**：持续迭代的技术文章（Git 提交时间线可追溯）  
-- **多维度分类**：标签系统 + 项目化组织（见下方目录结构解析）  
-- **开放协作**：所有笔记源文件可追溯历史变更
-
-## 📂 内容架构解析
-```plaintext
-├── 编程核心
-│   ├── malloc         # 内存管理专题（含 Linux 内存分配源码分析）
-│   └── cmd255         # 命令行工具开发实践（附实战项目代码）
-│
-├── C++ Prime Plus    # 《C++ Primer Plus》实践笔记
-│   ├── Indicable     # 运算符重载专题
-│   ├── Blake         # STL 容器深度剖析 
-│   ├── transformer   # 类型转换机制专题
-│   └── X:8B:8B:8F:9:3  # 模板元编程模式解析
-│
-├── 系统设计
-│   ├── [f]:[g:7:5]       # 分布式系统 CAP 定理实践
-│   └── [tl]:[l]:[t]:[t]  # 微服务通信协议设计模式
-│
-└── TL 系列           # 技术领导力专题
-    ├── tl1-tl4       # 架构决策记录（ADR）
-    └── tl5-tl6       # 技术债务管理实践（含真实案例）
-```
-
-## 🛠 技术栈全景
-**核心工具链**  
-[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699?style=flat&logo=obsidian&logoColor=white)](https://obsidian.md)
-[![Digital Garden](https://img.shields.io/badge/Digital_Garden-Plugin-%2378b9f0)](https://github.com/oleeskild/obsidian-digital-garden)
-[![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-
-**开发技术栈**  
-```
-▮▮▮▮▮▮▮▮▮ C++ 深度实践 (C++17/20)
-  ├── 内存管理：ptmalloc/jemalloc 源码级优化
-  ├── 并发编程：Lock-free 数据结构实现
-  └── 模板元编程：CRTP 模式实战
-
-▮▮▮▮▮▮ 系统设计模式
-  ├── 微服务：gRPC+Protobuf 通信栈
-  └── 分布式：Raft 共识算法实现
-
-▮▮▮▮▮ 工具链
-  ├── 构建系统：CMake + Conan 包管理
-  └── 调试工具：GDB 脚本化调试技巧
-```
-
-## 🚀 快速导航指南
-- 按时间线浏览：`git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)'`
-- 搜索技巧：  
-  ```bash
-  # 查找内存相关笔记
-  grep -rnw './' -e 'malloc|jemalloc'
-  ```
-
-## 🌱 内容生长日志
-- 最近更新：`X:8B:8B:8F:9:3` 模板元编程（12小时前）
-- 热门专题：`transformer` 类型系统（3天内有12次迭代）
-
-## 🤝 参与共建
-欢迎通过 Issue 提出：
-- 技术疑问 💡
-- 内容勘误 🔍
-- 专题建议 📚
-
-## License
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-```
-
-### 特色说明：
-1. **动态技术栈展示**：使用 ASCII 进度条直观呈现技术深度
-2. **Git 集成指引**：直接提供实用的 git 命令用于内容追溯
-3. **内容热力图**：突出显示最近更新和热门专题
-4. **双链知识图谱**：通过目录结构展示笔记间的关联性
-5. **渐进式披露**：复杂技术点（如模板元编程）采用渐进式编号标识
-
-建议在 Obsidian 中安装 [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) 插件以完美渲染表格结构。
+## **关于大语言模型学习导航**
+- [[大语言模型学习]]
+  - [[Attention注意力机制]]
+    - [[Attention机制详解与应用]]
+    - [[DCA：长文本处理的新突破（Dual Chunk Attention）]]
+    - [[KV Cache技术详解：优化Transformer自回归生成效率]]
+    - [[Transformer中的Attention详解与应用指南]]
+    - [[【长上下文模型优化】基于Shifted Sparse Attention的创新方法]]
+    - [[优化Attention计算复杂度的技术探讨]]
+    - [[深度学习中的注意力机制优化：从MHA到MLA]]
+  - [[FFN、Add & LN 的作用与应用]]
+    - [[Transformer核心模块解析：FFN、Add & LN 的作用与应用]]
+    - [[深度学习中的Layer Norm设计：Post-Norm、Pre-Norm与Sandwich-Norm比较]]
+    - [[激活函数与FFN结构优化：SwiGLU、GeGLU及其应用解析]]
+    - [[激活函数详解与比较：从Sigmoid到Swish]]
+  - [[Positional Encoding位置编码]]
+    - [[NTK插值方法解析与优化：从NTK-aware到NTK-by-parts]]
+    - [[YaRN方法解析：扩展RoPE嵌入与注意力优化的实践]]
+    - [[介绍|位置编码介绍]]
+    - [[位置内插法扩展语言模型上下文长度]]
+    - [[数字输入优化与外推方法解析]]
+    - [[旋转位置编码与ALiBi：深度学习中的位置嵌入优化]]
+    - [[相对位置编码]]
+      - [[DeBERTa的相对位置编码与绝对位置编码解析]]
+      - [[T5模型与相对位置编码优化解析]]
+      - [[相对位置编码与XLNet位置编码详解 深入理解Transformer机制]]
+    - [[绝对位置编码]]
+      - [[BERT与RNN位置编码的对比与应用]]
+      - [[Transformer绝对位置编码详解与改进分析]]
+  - [[Pre-training 预训练]]
+    - [[推理耗时]]
+    - [[数据多样性与模型优化探索]]
+    - [[数据清洗]]
+    - [[数据爬取]]
+    - [[数据配比与训练顺序优化指南]]
+    - [[模型打分与数据去重]]
+    - [[深度学习中的显存优化与梯度处理方法]]
+    - [[混合精度训练]]
+    - [[继续预训练]]
+    - [[训练容灾及训练监控]]
+    - [[预训练定义以及数据来源]]
+    - [[预训练评估]]
+    - [[预训练评估2]]
+    - [[预训练过程]]
+      - [[训练Tokenizer]]
+      - [[预训练的Scaling Law]]
+      - [[预训练策略]]
+      - [[高效深度学习模型训练框架选择与优化指南]]
+  - [[RL强化学习基础]]
+    - [[SARSA-λ与Q-learning对比]]
+    - [[SARSA算法]]
+    - [[价值迭代算法]]
+    - [[强化学习分类]]
+    - [[强化学习的独特性]]
+    - [[强化学习问题,流程]]
+    - [[时序差分算法]]
+    - [[深度Q网络]]
+    - [[策略迭代算法]]
+    - [[蒙特卡洛方法]]
+    - [[贝尔曼方程]]
+    - [[马尔可夫决策过程]]
+  - [[Structure & Decoding Policy 结构和解码策略]]
+    - [[大模型结构与混合专家（LLM & MoE）解析]]
+    - [[深度解析语言模型采样方法：Top-K、Top-P、Temperature及综合策略]]
+    - [[解码采样策略：Greedy Search与Beam Search的实现与优化]]
+  - [[分词]]
+    - [[BBPE：字节级别的BPE分词技术解析与应用]]
+    - [[WordPiece分词算法解析与实践]]
+    - [[使用Byte Pair Encoding (BPE)优化子词分词的技巧与实践]]
+    - [[使用Unigram语言模型（ULM）优化分词算法：核心思路与实践]]
+    - [[分词算法的比较]]
+    - [[常用分词库]]
+  - [[后训练]]
+    - [[SFT监督微调]]
+      - [[SFT数据及处理]]
+        - [[开源数据集]]
+        - [[数据多样性探索]]
+        - [[数据生产合成与质量过滤]]
+        - [[数据飞轮在SFT中的应用与优化]]
+      - [[STF训练]]
+        - [[多轮对话专项提升]]
+        - [[多轮对话专项提升2]]
+        - [[训练启动脚本]]
+        - [[训练技巧和训练策略]]
+        - [[训练框架及参数设置]]
+      - [[监督微调与预训练的区别]]
+  - [[词嵌入]]
+    - [[FastText]]
+    - [[oneHot]]
+    - [[Word2Vec]]
+    - [[介绍|词嵌入介绍]]
