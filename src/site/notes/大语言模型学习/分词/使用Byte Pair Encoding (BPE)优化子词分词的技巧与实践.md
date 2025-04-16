@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["NLP"],"title":"使用Byte Pair Encoding (BPE)优化子词分词的技巧与实践","dg-permalink":"/大语言模型学习/分词/BPE","permalink":"/大语言模型学习/分词/BPE/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-27T09:54:11.996+08:00","updated":"2025-04-12T12:53:40.213+08:00"}
+{"dg-publish":true,"tags":["NLP"],"title":"使用Byte Pair Encoding (BPE)优化子词分词的技巧与实践","dg-permalink":"/大语言模型学习/分词/BPE","permalink":"/大语言模型学习/分词/BPE/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-27T09:54:11.000+08:00","updated":"2025-04-13T17:21:31.000+08:00"}
 ---
 
 
@@ -111,9 +111,9 @@ Byte Pair Encoding (BPE) 是一种常见的子词分词算法，通过逐步合�
 
 
 ## 行动清单
-- [ ] 实现一个简单的BPE算法，用于小型语料库测试。
-- [ ] 探索不同BPE参数（如词汇表大小）对模型性能的影响。
-- [ ] 比较BPE与其他分词方法（如WordPiece）的实际效果。
+- [x] 实现一个简单的BPE算法，用于小型语料库测试。
+- [x] 探索不同BPE参数（如词汇表大小）对模型性能的影响。
+- [x] 比较BPE与其他分词方法（如WordPiece）的实际效果。
 
 ---
 
@@ -122,7 +122,9 @@ Byte Pair Encoding (BPE) 是一种常见的子词分词算法，通过逐步合�
 ## [思考] 延伸问题
 1. 如何改进BPE算法，使其支持概率分词？
 2. 在多语言模型中，BPE如何适配不同语言的特性？
-3. 是否可以结合深度学习技术优化BPE的子词选择过程？
+	1. - 任务是跨语言迁移/翻译 → 建议 **共享 BPE + 语言前缀**
+	2. 如果是低资源语言建模 → 考虑 **独立子词表** 或 BBPE 分配资源更公平
+3.  以结合深度学习技术优化BPE的子词选择过程？
 
 ---
 

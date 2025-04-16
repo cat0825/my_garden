@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/半径为k的子数组平均值","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/半径为k的子数组平均值/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-25T15:10:44.076+08:00","updated":"2025-03-27T10:29:01.326+08:00"}
+{"dg-publish":true,"dg-permalink":"/leetcode/滑动窗口/半径为k的子数组平均值","tags":["滑动窗口"],"permalink":"/leetcode/滑动窗口/半径为k的子数组平均值/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-03-25T15:10:44.000+08:00","updated":"2025-03-27T10:29:01.000+08:00"}
 ---
 
 
