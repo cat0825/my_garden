@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/RL强化学习基础/优化PPO方向的算法/REINFORCE算法改进：RLOO与REINFORCE++","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/RL强化学习基础/优化PPO方向的算法/REINFORCE算法改进：RLOO与REINFORCE++/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-22T22:09:59.000+08:00","updated":"2025-04-22T22:46:13.315+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/RL强化学习基础/优化PPO方向的算法/REINFORCE算法改进：RLOO与REINFORCE++","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/RL强化学习基础/优化PPO方向的算法/REINFORCE算法改进：RLOO与REINFORCE++/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-22T22:09:59.000+08:00","updated":"2025-04-22T22:46:13.000+08:00"}
 ---
 
 
@@ -62,5 +62,5 @@ REINFORCE++是一种简单且高效的方法，用于对齐大型语言模型。
 
 ## 来源
 > 本文内容来源于论文《Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs》和《REINFORCE++: A SIMPLE AND EFFICIENT APPROACH FOR ALIGNING LARGE LANGUAGE MODELS》。
-> [[ReMax\|ReMax]]
+> [[大语言模型学习/RL强化学习基础/优化PPO方向的算法/ReMax\|ReMax]]
 > ![Pasted image 20250422221155.png](/img/user/%E9%99%84%E4%BB%B6/Pasted%20image%2020250422221155.png)

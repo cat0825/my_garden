@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/cpp/using","permalink":"/cpp/using/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-28T11:52:53.550+08:00","updated":"2025-01-01T22:39:15.111+08:00"}
+{"dg-publish":true,"dg-permalink":"/cpp/using","permalink":"/cpp/using/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-28T11:52:53.000+08:00","updated":"2025-01-01T22:39:15.000+08:00"}
 ---
 
 
