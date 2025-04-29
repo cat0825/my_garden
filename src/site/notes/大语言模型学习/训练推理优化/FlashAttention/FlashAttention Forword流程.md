@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/训练推理优化/FlashAttention/FlashAttention-Forword流程","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/训练推理优化/FlashAttention/FlashAttention-Forword流程/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-28T22:31:37.152+08:00","updated":"2025-04-28T22:51:36.182+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/训练推理优化/FlashAttention/FlashAttention-Forword流程","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/训练推理优化/FlashAttention/FlashAttention-Forword流程/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-28T22:31:37.000+08:00","updated":"2025-04-29T11:13:24.891+08:00"}
 ---
 
 
@@ -113,7 +113,7 @@ for 1 <= j <= Tc:
 
 
 ## Tilling 中的 Safe Softmax
-在这篇博客文章中，我们将探讨 Tilling 中的 Safe Softmax 的概念及其计算方法。我们假设标准场景下，矩阵某一行的向量为
+探讨 Tilling 中的 Safe Softmax 的概念及其计算方法。我们假设标准场景下，矩阵某一行的向量为
 
 $$
 x = [ x_1, x_2, \ldots, x_d]
