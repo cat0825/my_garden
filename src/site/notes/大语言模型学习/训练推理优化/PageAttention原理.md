@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/训练推理优化/PageAttention机制","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/训练推理优化/PageAttention机制/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-28T22:52:38.000+08:00","updated":"2025-04-29T11:00:58.132+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/训练推理优化/PageAttention机制","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":0,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/训练推理优化/PageAttention机制/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":0,"created":"2025-04-28T22:52:38.521+08:00","updated":"2025-04-29T22:10:45.999+08:00"}
 ---
 
 
 
-# 5. 3 PageAttention原理
+# PageAttention原理
 
-## 5. 3 .1 核心机制
+##  核心机制
 利用虚拟内存的思想，合理利用碎片内存。大模型推理的性能瓶颈主要来自于内存。一是自回归过程中缓存的K和V张量非常大，在LLaMA-13B中，单个序列输入进来需要占用1.7GB内存。二是内存占用是动态的，取决于输入序列的长度。由于碎片化和过度预留，现有的系统浪费了60%-80%的内存。PagedAttention灵感来自于操作系统中虚拟内存和分页的经典思想，它可以允许在非连续空间里存储连续的KV张量。具体来说，PagedAttention把每个序列的KV缓存进行了分块，每个块包含固定长度的token，而在计算attention时可以高效地找到并获取那些块。
 [动图演示](https://pic3.zhimg.com/v2-e8a2317d1bc7ba5670ca05f68196453e_b.webp)
 每个固定长度的块可以看成虚拟内存中的页，token可以看成字节，序列可以看成进程。那么通过一个块表就可以将连续的逻辑块映射到非连续的物理块，而物理块可以根据新生成的token按需分配。
@@ -22,7 +22,7 @@ PagedAttention的另外一个好处是高效内存共享。例如，在并行采
 [动图演示](https://pica.zhimg.com/v2-cab043f5f4d3ed2f4e369a542617fb22_b.webp)
 
 
-## 5. 3 .3 不同解码策略下的用法
+##  不同解码策略下的用法
 给模型发送一个请求，希望它对prompt做续写，并给出三种不同的回答。我们管这个场景叫parallel sampling。
 ![Pasted image 20250428225616.png](/img/user/%E9%99%84%E4%BB%B6/Pasted%20image%2020250428225616.png)
 

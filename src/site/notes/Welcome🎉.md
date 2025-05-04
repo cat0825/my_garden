@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-24T13:56:28.730+08:00","updated":"2025-04-15T11:14:20.012+08:00"}
+{"dg-publish":true,"dg-home":"true","permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-24T13:56:28.000+08:00","updated":"2025-04-30T22:32:50.692+08:00"}
 ---
 
 
@@ -34,7 +34,7 @@
       - [[大语言模型学习/Positional Encoding位置编码/绝对位置编码/BERT与RNN位置编码的对比与应用\|BERT与RNN位置编码的对比与应用]]
       - [[大语言模型学习/Positional Encoding位置编码/绝对位置编码/Transformer绝对位置编码详解与改进分析\|Transformer绝对位置编码详解与改进分析]]
   - [[Pre-training 预训练\|Pre-training 预训练]]
-    - [[大语言模型学习/Pre-training 预训练/推理耗时\|推理耗时]]
+    - [[大语言模型学习/Pre-training 预训练/推理耗时\|大语言模型学习/Pre-training 预训练/推理耗时]]
     - [[大语言模型学习/Pre-training 预训练/数据多样性与模型优化探索\|数据多样性与模型优化探索]]
     - [[大语言模型学习/Pre-training 预训练/数据清洗\|数据清洗]]
     - [[大语言模型学习/Pre-training 预训练/数据爬取\|数据爬取]]
