@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/大语言模型学习/大模型应用/RAG检索增强生成/RAG优化","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":3,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/大模型应用/RAG检索增强生成/RAG优化/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":3,"created":"2025-05-06T21:29:58.000+08:00","updated":"2025-05-06T22:12:19.696+08:00"}
+{"dg-publish":true,"dg-permalink":"/大语言模型学习/大模型应用/RAG检索增强生成/RAG优化","dg-home":false,"dg-description":"在此输入笔记的描述","dg-hide":false,"dg-hide-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-show-inline-title":true,"dg-pinned":false,"dg-passphrase":"在此输入访问密码","dg-enable-mathjax":false,"dg-enable-mermaid":false,"dg-enable-uml":false,"dg-note-icon":3,"dg-enable-dataview":false,"tags":["NLP"],"permalink":"/大语言模型学习/大模型应用/RAG检索增强生成/RAG优化/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgPassFrontmatter":true,"noteIcon":3,"created":"2025-05-06T21:29:58.000+08:00","updated":"2025-05-07T10:05:04.000+08:00"}
 ---
 
 
@@ -380,8 +380,8 @@ RAG 的性能高度依赖于知识数据的准确性和清洁程度。在数据�
 ---
 
 
-## [[大语言模型学习/大模型应用/RAG检索增强生成/查询索引阶段\|查询索引阶段]]
 
+# [[大语言模型学习/大模型应用/RAG检索增强生成/RAG优化中查询索引阶段\|RAG优化中查询索引阶段]]
 
 ## 生成回答阶段的设计与优化
 在构建基于大型语言模型（LLM）的系统时，生成回答阶段是一个至关重要的环节。LLM 的解码器部分通常基于给定输入来预测下一个词，这意味着提示词的设计会直接影响模型的输出质量和行为表现。本文将探讨如何通过提示词设计、模型选择以及 RAG 系统的构建来优化 LLM 的生成回答阶段。
